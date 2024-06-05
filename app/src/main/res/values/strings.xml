@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Manajemen Buku</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_pinjam">Di Pinjam</string>
+    <string name="menu_return">Return</string>
+
+</resources>
